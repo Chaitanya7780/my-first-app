@@ -31,4 +31,5 @@ spec:
         image: nageswar441/second-app:latest
         ports:
         - containerPort: 8080
+# ends here 
 
